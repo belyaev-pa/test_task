@@ -2,13 +2,13 @@
 
     name,
     second_name,
-    this.univercity = univercity,
-    this.faculty = faculty,
-    this.department = department,
-    this.course = course,
-    this.age = age,
-    this.group = group,
-    this.city = city,
+    univercity,
+    faculty,
+    department,
+    course,
+    age,
+    group,
+    city,
 
 необходимо:
 ---
