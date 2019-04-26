@@ -2,7 +2,7 @@
 
     name,
     second_name,
-    univercity,
+    university,
     faculty,
     department,
     course,
